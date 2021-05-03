@@ -9,4 +9,4 @@ I'm a {backend, frontend and DevOps} developer and full stack developer at [@mes
 
 - [Twitter Blog](https://twitter.com/ei__moura) ✍🏼 - I'm write about many things.
 - [Website](https://wilomoura.dev/) 💻 - Still Working on it.
-- [Contact Me](mailto:wilo.moura3@gmail.com) 📫 wilo.moura3@gmail.com <- Contact on Email
+- [Contact Me](mailto:wilo.moura3@gmail.com) 📫 - Contact Me on email
