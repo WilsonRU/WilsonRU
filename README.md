@@ -9,4 +9,4 @@ I'm a {backend, frontend and DevOps} guy and full stack developer at [@meshatech
 - :hammer_and_pick: PHP / NodeJS / Java / C# / Javascript / Python.
 - :package: Laravel / CodeIgniter / AdonisJS / NestJS / Angular / SpringBoot / Flask
 - :computer: Docker / Kubernetes / Terraform
-- [Contact Me](mailto:wilo.moura3@gmail.com) 📫 - Contact Me on email
+- :mailbox: [Contact Me](mailto:wilo.moura3@gmail.com) - Contact Me on email
