@@ -6,6 +6,16 @@
 ### About me
 I'm a {backend, frontend and DevOps} guy and full stack developer at [@meshatech](https://www.somosmesha.com/).
 
+My specialties include..
+
+    - Quickly learning new skills and programming languages,
+    - Problem-solving,
+    - Responsive design principles
+
+
 - :scroll: PHP / Java / JavaScript / Python.
 - :hammer_and_pick: Laravel / CodeIgniter / NestJS / Angular / SpringBoot / Flask
 - :wrench: Docker / Kubernetes / Terraform
+
+
+<h1 align='center'><i>Stay awesome!</i></h1>
