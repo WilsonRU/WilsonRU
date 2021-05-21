@@ -6,6 +6,6 @@
 ### About me
 I'm a {backend, frontend and DevOps} guy and full stack developer at [@meshatech](https://www.somosmesha.com/).
 
-- :hammer_and_pick: PHP / NodeJS / Java / C# / Javascript / Python.
-- :package: Laravel / CodeIgniter / AdonisJS / NestJS / Angular / SpringBoot / Flask
-- :computer: Docker / Kubernetes / Terraform
+- :scroll: PHP / Java / JavaScript / Python.
+- :hammer_and_pick: Laravel / CodeIgniter / NestJS / Angular / SpringBoot / Flask
+- :wrench: Docker / Kubernetes / Terraform
