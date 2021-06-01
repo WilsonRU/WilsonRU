@@ -13,8 +13,8 @@ My specialties include..
     - Responsive design principles
 
 
-- :scroll: PHP / Java / JavaScript / Python / C-C++
-- :hammer_and_pick: Laravel / CodeIgniter / NestJS / Angular / SpringBoot / Flask
+- :scroll: PHP / Java / JavaScript / Python / C / C++
+- :hammer_and_pick: Laravel / Codeigniter / NestJS / Angular / Springboot / Flask
 - :wrench: Docker / Kubernetes / Terraform
 
 
