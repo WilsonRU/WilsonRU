@@ -14,7 +14,7 @@ My specialties include..
 
 
 - :scroll: PHP / Java / JavaScript / Python / C and C++
-- :hammer_and_pick: Laravel / Codeigniter / NestJS / Angular / Springboot / Flask
+- :hammer_and_pick: Laravel / Codeigniter / NestJS / Angular / Springboot / Flask / Ionic
 - :wrench: Docker / Kubernetes / Terraform
 
 
