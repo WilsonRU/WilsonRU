@@ -15,6 +15,6 @@ My specialties include..
 - :scroll: PHP / Java / JavaScript / Python / C and C++ / Swift / Kotlin
 - :hammer_and_pick: Laravel / Codeigniter / NestJS / Angular / Springboot / Flask / Ionic
 - :wrench: Docker / Kubernetes / Terraform
-- :iphone: Android / IOS
+- :iphone: Android / Ios
 
 <h1 align='center'><i>Stay awesome!</i></h1>
