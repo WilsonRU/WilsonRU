@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-m-bba835141/)](https://www.linkedin.com/in/wilson-m-bba835141/)
 
 ### About me
-I'm a {backend, frontend and DevOps} guy and full stack developer at [@meshatech](https://www.somosmesha.com/).
+I'm a {backend, frontend and DevOps} guy and full stack developer.
 
 My specialties include..
 
