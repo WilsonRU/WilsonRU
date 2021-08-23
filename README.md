@@ -13,7 +13,7 @@ My specialties include..
     - Responsive design principles
 
 - :scroll: PHP, Java, JavaScript, Typescript, Ruby, Python, C and C++
-- :hammer_and_pick: Laravel, CodeIgniter, NestJS, Angular, Rails, React - React Native
+- :hammer_and_pick: Laravel, CodeIgniter, Angular, Rails, React - React Native
 - :wrench: Docker, Kubernetes, Terraform - Ansible
 
 <h1 align='center'><i>Stay awesome!</i></h1>
