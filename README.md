@@ -16,11 +16,12 @@ My specialties include..
 - :hammer_and_pick: Laravel, CodeIgniter, Angular, Rails, React - React Native
 - :wrench: Docker, Kubernetes, Terraform - Ansible
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
+
 #### My Stats :chart_with_upwards_trend::
 <div>
   <a href="https://github.com/wilsonru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsonru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonru&layout=compact&langs_count=7&theme=dark"/>
 </div>
-![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
 <h1 align='center'><i>Stay awesome!</i></h1>
