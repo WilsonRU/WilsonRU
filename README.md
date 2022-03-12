@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-m-bba835141/)](https://www.linkedin.com/in/wilson-m-bba835141/)
 
 ### About me
-I'm a {backend, frontend, and DevOps} guy but I'm formally known as a research software engineer 
+I'm a {backend, frontend} guy but I'm formally known as a research software engineer 
 
 My specialties include..
 
@@ -13,8 +13,8 @@ My specialties include..
     - Responsive design principles
 
 - :scroll: PHP, Java, JavaScript, Typescript, Ruby, Python, C and C++
-- :hammer_and_pick: Laravel, CodeIgniter, Angular, Rails, React - React Native
-- :wrench: Docker, Kubernetes, Terraform - Ansible
+- :hammer_and_pick: Laravel, CodeIgniter, Angular, Rails, VueJS
+- :wrench: Docker, Kubernetes
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
 
