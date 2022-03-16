@@ -12,8 +12,8 @@ My specialties include..
     - Problem-solving,
     - Responsive design principles
 
-- :scroll: PHP, Java, JavaScript, Typescript, Ruby, Python, C and C++
-- :hammer_and_pick: Laravel, CodeIgniter, Angular, Rails, VueJS
+- :scroll: PHP, JavaScript, Ruby, Python, C and C++
+- :hammer_and_pick: Laravel, Angular, Rails, VueJS
 - :wrench: Docker, Kubernetes
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
