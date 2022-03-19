@@ -14,7 +14,7 @@ My specialties include..
 
 - :scroll: PHP, JavaScript, Ruby, Python, C and C++
 - :hammer_and_pick: Laravel, Angular, Rails, VueJS
-- :wrench: Docker, Kubernetes
+- :wrench: Docker
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
 
