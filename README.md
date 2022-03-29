@@ -13,7 +13,7 @@ My specialties include..
     - Responsive design principles
 
 - :scroll: PHP, JavaScript, Ruby, Python, C and C++
-- :hammer_and_pick: Laravel, Angular, Rails, VueJS
+- :hammer_and_pick: Laravel, Angular, Rails, Svelte
 - :wrench: Docker
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
