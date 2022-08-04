@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-m-bba835141/)](https://www.linkedin.com/in/wilson-m-bba835141/)
 
 ### About me
-I'm a {backend, frontend} guy but I'm formally known as a research software engineer 
+I'm a backend guy but I'm formally known as a research software engineer 
 
 My specialties include..
 
