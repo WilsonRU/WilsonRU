@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-m-bba835141/)](https://www.linkedin.com/in/wilson-m-bba835141/)
 
 ### About me
-I'm a backend guy but I'm formally known as a research software engineer 
+I'm a backend guy but I'm formally known as a software engineer 
 
 My specialties include..
 
@@ -12,9 +12,9 @@ My specialties include..
     - Problem-solving,
     - Responsive design principles
 
-- :scroll: PHP, JavaScript, Ruby, Python, C and C++
-- :hammer_and_pick: Laravel, Angular, Rails, Svelte
-- :wrench: Docker
+- :scroll: PHP, Javascript, Ruby, Python, C and C++
+- :hammer_and_pick: Laravel, SlimPHP, Rails, Django
+- :wrench: Docker, Jenkins, Github Actions
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
 
