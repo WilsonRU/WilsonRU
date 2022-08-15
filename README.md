@@ -13,7 +13,8 @@ My specialties include..
     - Responsive design principles
 
 - :scroll: PHP, Javascript, Ruby, Python, C and C++
-- :hammer_and_pick: Laravel, SlimPHP, Rails, Flask, NestJS, CodeIgniter
+- :hammer_and_pick: Laravel, SlimPHP, CodeIgniter, Rails, Flask
+- :test_tube: PHPUnit, Rspec, Unittest
 - :wrench: Docker, Jenkins, Github Actions
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
