@@ -12,9 +12,9 @@ My specialties include..
     - Problem-solving,
     - Responsive design principles
 
-- :scroll: PHP, Java, Javascript, Ruby, Python
-- :hammer_and_pick: Laravel, SlimPHP, CodeIgniter, Rails, Flask, Django, React, Angular
-- :test_tube: PHPUnit, Rspec, Unittest, JUnit
+- :scroll: PHP, Javascript, Ruby, Python
+- :hammer_and_pick: Laravel, SlimPHP, Rails, React, Angular
+- :test_tube: PHPUnit, Rspec, Unittest
 - :wrench: Docker, Jenkins, Github Actions
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
