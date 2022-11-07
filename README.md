@@ -27,9 +27,6 @@ My specialties include..
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
 
-**You can find me in** 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/wilson-m-bba835141/)&nbsp;
-
 #### My Stats :chart_with_upwards_trend::
 <div>
   <a href="https://github.com/wilsonru">
