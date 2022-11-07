@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-m-bba835141/)](https://www.linkedin.com/in/wilson-m-bba835141/)
 
 ### About me
-I'm a backend guy but I'm formally known as a software engineer 
+I'm formally known as a software engineer 
 
 My specialties include..
 
@@ -12,12 +12,27 @@ My specialties include..
     - Problem-solving,
     - Responsive design principles
 
-- :scroll: PHP, Javascript, Ruby, Python
-- :hammer_and_pick: Laravel, SlimPHP, Rails, React, Angular
-- :test_tube: PHPUnit, Rspec, Unittest, Jest, Jasmine
-- :wrench: Docker, Jenkins, Github Actions
+  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+  ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp;
+  ![SlimPHP](https://img.shields.io/badge/-SlimPHP-05122A?style=flat&logo=slim_php)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;  
+  ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;  
+  ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; 
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
+
+**You can find me in** 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/wilson-m-bba835141/)&nbsp;
 
 #### My Stats :chart_with_upwards_trend::
 <div>
