@@ -26,7 +26,7 @@ My specialties include..
   ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
   ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp;   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
   ![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat&logo=podman)&nbsp;
   ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
