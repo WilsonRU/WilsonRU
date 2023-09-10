@@ -35,4 +35,4 @@ My specialties include..
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
 
-I use Void Linux
+I use Fedora
