@@ -7,13 +7,15 @@
 
 ### About me
 
-I'm formally known as a software engineer 
+I'm a software engineer with a broad background on develop. I like to approach problems in system performance + architecture and enjoy working with backend.
 
 My specialties include..
 
     - Quickly learning new skills and programming languages,
     - Problem-solving,
     - Responsive design principles
+    - good at working in teams
+    - learning about new technologies and processes
 
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
