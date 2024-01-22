@@ -23,7 +23,7 @@ My specialties include..
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;   
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-  ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+  ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
