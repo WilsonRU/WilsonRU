@@ -17,12 +17,14 @@ My specialties include..
     - Good at working in teams
 
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
   ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;   
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+  ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp; 
   ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
