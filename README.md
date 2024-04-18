@@ -23,6 +23,7 @@ My specialties include..
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;   
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
   ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp; 
   ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;   
