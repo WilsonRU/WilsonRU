@@ -29,6 +29,8 @@ My specialties include..
   ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+  ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 
