@@ -18,6 +18,7 @@ My specialties include..
 
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+  ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
   ![Go](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
