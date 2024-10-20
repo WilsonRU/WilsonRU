@@ -7,7 +7,7 @@
 
 I'm a software engineer with a broad background on develop. I like to approach problems in system performance + architecture and enjoy working with backend.
 
-- 💬 Ask me about **PHP, Rust and Typescript**
+- 💬 Ask me about **PHP, Rust, Ruby and Typescript**
 
 My specialties include..
 
