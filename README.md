@@ -29,7 +29,6 @@ My specialties include..
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-  ![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat&logo=podman)&nbsp;
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)</br>
