@@ -18,13 +18,12 @@ My specialties include..
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
   ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-  ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;   
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-  ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp; 
+  ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp;
+  ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp; 
   ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;   
   ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
